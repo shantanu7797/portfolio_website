@@ -575,7 +575,7 @@ main {
 
 
 .body2 {
-    padding-top: 35px;
+    padding-top: 45px;
     width: 100%;
     height: fit-content;
     background-color: rgb(255, 255, 255);
@@ -765,7 +765,7 @@ main {
 
 
 .body3 {
-    padding: 1px 0 60px 0;
+    padding: 16px 0 60px 0;
     margin: auto;
     width: 1200px;
     /* max-width: 1400px; */
@@ -876,7 +876,7 @@ main {
 
 
 .body4 {
-    padding: 1px 0 60px 0;
+    padding: 16px 0 60px 0;
     margin: auto;
     width: 1200px;
     height: 800px;
@@ -1255,7 +1255,7 @@ main {
 
 
 .body5 {
-    padding: 1px 0 60px 0;
+    padding: 20px 0 60px 0;
     margin: auto;
     width: 100vw;
     max-width: 1400px;
